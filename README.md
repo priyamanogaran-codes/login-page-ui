@@ -4,11 +4,11 @@ A clean and responsive Login Page built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here)
+ https://priyamanogaran-codes.github.io/login-page-ui/
 
 ## 📸 Screenshot
 
-(Add screenshot here)
+![Login Page](loginpage/login)
 
 ## ✨ Features
 
