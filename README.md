@@ -8,7 +8,7 @@ A clean and responsive Login Page built using HTML and CSS.
 
 ## 📸 Screenshot
 
-![Login Page](login)
+![Login Page](login.png)
 
 ## ✨ Features
 
